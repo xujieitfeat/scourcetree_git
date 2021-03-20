@@ -1,2 +1,7 @@
+<<<<<<< .merge_file_a05552
 123
 asdgasg
+=======
+456
+asdgasg
+>>>>>>> .merge_file_a07236
